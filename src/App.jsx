@@ -1,4 +1,5 @@
 import "./App.css";
+import React from 'react';
 import Character from "./components/Character";
 import ironmanImage from "./images/ironman.png";
 import adamwarlockImage from "./images/adamwarlock.png";
