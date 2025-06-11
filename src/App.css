@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+}
+
+
+.character-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+
+body{
+  background-color: #1c1c1c;
+  color: whitesmoke;
+}
